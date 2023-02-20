@@ -1,1 +1,1 @@
-# Astro Blog Tutorial
+# Astro Blog
